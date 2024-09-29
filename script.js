@@ -1,6 +1,6 @@
 var settings = {
     particles: {
-        length: 500, // Number of particles
+        length: 300, // Number of particles
         duration: 2, // Particle duration in seconds
         velocity: 100, // Particle velocity in pixels per second
         effect: -0.75, // Particle effect (0 = no effect, -1 = reverse, 1 = normal)
